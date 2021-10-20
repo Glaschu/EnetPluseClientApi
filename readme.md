@@ -4,3 +4,5 @@ to build a full reusable c# client to consume the api
  
  Implemented so far is 
  Static Objects
+
+ Built for net core
